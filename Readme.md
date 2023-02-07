@@ -2,18 +2,18 @@
 
 ## Тема: "Основні команди системи контролю версій Git"
 
-Виконав студент 3 курсу
-Напрям "ІПЗ" група 1.2
-Лінтур Владислав Михайлович
+Виконав студент 3 курсу <br/>
+Напрям "ІПЗ" група 1.2 <br/>
+Лінтур Владислав Михайлович 
 
 ### План:
 1) Пройти гру Git Learn та зробити скріншоти пройдених рівнів.
-    ![image1](./images/page1.jpeg)
-    ![image2](./images/page2.jpeg)
+    ![image1](./images/page1.png)
+    ![image2](./images/page2.png)
 2) Зробити git init папки із файлом  hello.txt та bash скриптом.
-    ![image3](./images/ex1.jpeg)
+    ![image3](./images/ex1.png)
 3) Зробити git commit.
-    ![image4](./images/ex2.jpeg)
+    ![image4](./images/ex2.png)
 4) Зробити git push у віддалений репозиторій у вітку lab_works_one_two.
-    ![image5](./images/ex3.jpeg)
+    ![image5](./images/ex3.png)
 5) Додати в файл Readme звіт до лабораторної, щоб його можна було передивлятись на репозиторію коли переходиш у вітку.
