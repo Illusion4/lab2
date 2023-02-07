@@ -12,7 +12,7 @@
     ![image2](./images/page2.png)
 2) Зробити git init папки із файлом  hello.txt та bash скриптом.
     ![image3](./images/ex1.png)
-3) Зробити git commit.
+3) Зробити git commit. <br/>
     ![image4](./images/ex2.png)
 4) Зробити git push у віддалений репозиторій у вітку lab_works_one_two.
     ![image5](./images/ex3.png)
